@@ -19,12 +19,11 @@ cd A1-Brother-Dynamic-BI
 
 # Install dependencies
 pip install -r requirements.txt
-
----
-
 ## 📸 Screenshots
 
-> Upload a CSV → Select columns → View 10 different charts instantly!
+> Dynamic Dashboards with multiple chart types!
 
-![Dashboard Chart 1](1000054333.jpg)
-![Dashboard Chart 2](1000054334.jpg)
+![Chart 1](1000054333.jpg)
+![Chart 2](1000054334.jpg)
+![Chart 3](1000054370.jpg)
+![Chart 4](1000054371.jpg)
